@@ -21,7 +21,7 @@
   4. Запустите команду `python -m install -r requirements.txt`
   5. Запустите файл `start.bat`
   
-Для Linux:
+Для Linux и macOS:
   1. Установите [Python](https://www.python.org)
   2. Установите [PyCharm](https://www.jetbrains.com/pycharm/download/)
   3. Скачайте `ReelControlFiles`
