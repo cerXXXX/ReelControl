@@ -13,7 +13,7 @@
   2. Скачайте файл `main.exe`
   3. Запустите файл `main.exe`
 
-#### Альтернативный способ:  
+ #### Альтернативный способ:  
 Для Windows:
   1. Установите [Python](https://www.python.org)
   2. Скачайте `ReelControlFiles`
