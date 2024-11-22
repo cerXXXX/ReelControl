@@ -27,4 +27,4 @@
   3. Скачайте `ReelControlFiles`
   4. Откройте в PyCharm `ReelControlFiles`, создайте виртуальное окружение и запустите через терминал команду `python3 -m install -r requirements.txt`
   5. Запустите программу
-  
+  123
