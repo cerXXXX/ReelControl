@@ -20,3 +20,11 @@
   3. Запустите командную строку (`cmd`) и при помощи команды `cd` переместитесь в папку `*путь_до_директории_с_ReelControlFiles*\` и запустите там команду `python -m venv .venv`
   4. Запустите команду `python -m install -r requirements.txt`
   5. Запустите файл `start.bat`
+  
+Для Linux:
+  1. Установите [Python](https://www.python.org)
+  2. Скачайте `ReelControlFiles`
+  3. Запустите терминал и при помощи команды `cd` переместитесь в папку `*путь_до_директории_с_ReelControlFiles*\` и запустите там команду `python3 -m venv venv`
+  4. source venv/bin/activate
+  5. Запустите команду `pip install -r requirements.txt`
+
